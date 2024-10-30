@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ 
+.main-wrap-shcode table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+.main-wrap-shcode td {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 2px;
+}
+
+.main-wrap-shcode th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 12px;
+}
+
+
+.main-wrap-shcode tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+.main-wrap-shcode .shortcode-page-link{
+padding-left:3px;
+}
+.main-wrap-shcode a{
+font-weight: bold;
+}
+
+.main-wrap-shcode .sr-no{
+background: #04804c;
+padding-left: 10px;
+color: #fff;
+border-radius: 50%;
+padding-right: 10px;
+padding-top: 7px;
+padding-bottom: 7px;
+font-weight:bold;
+}
+
+tr.res-main-wrap span{
+	padding-left:5px;
+}
+
+.shortcode-page-link a{
+	text-transform: capitalize;
+}
+
+.heading th{
+	background: #428631;
+    color: #fff;
+}
